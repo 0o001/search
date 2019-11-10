@@ -1,0 +1,38 @@
+html
+{
+	width: 490px;
+}
+
+.dropdown-menu > li
+{
+	padding-left: 3px;
+	cursor: pointer;
+	color: #333;
+	padding-bottom: 2px;
+}
+
+.dropdown-menu > li:hover
+{
+	background-color: #F5F5F5;
+}
+
+#queryInput
+{
+	width: 300px;
+	height: 38px;
+}
+
+#search
+{
+	margin-left: 5px;
+	padding: 8px;
+	width: 70px;
+	border-radius: 2px;
+	background-color: #1369EA;
+	border-color: #1369EA;
+}
+
+#selectedImg
+{
+	margin-right: 2px;
+}
